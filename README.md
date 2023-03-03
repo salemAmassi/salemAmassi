@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Data Engineer from Palestine</h3>
 <img align="right" alt="Coding" width="400" src="DE.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salemamassi&label=Profile%20views&color=0e75b6&style=flat" alt="salemamassi" /> </p>
 
 - 🔭 I’m currently working on **Insta-ai project**
 
