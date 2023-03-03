@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Insta-ai project**
 
-- 🌱 I’m currently learning **PowerBi, Python, R**
+- 🌱 I’m currently learning **PowerBi, R**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
