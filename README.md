@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salem Amassi</h1>
 <h3 align="center">A passionate Data Engineer from Palestine</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuploads-ssl.webflow.com%2F5c19100c2b50073e6ee69da1%2F60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif&imgrefurl=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&tbnid=LdF0RB6zYZ8nuM&vet=12ahUKEwiJhbnnor_9AhWWWaQEHausAFsQMygMegUIARCMAg..i&docid=xLW_H5EqWMOzQM&w=500&h=500&q=data%20engineering%20gif&ved=2ahUKEwiJhbnnor_9AhWWWaQEHausAFsQMygMegUIARCMAg">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuploads-ssl.webflow.com%2F5c19100c2b50073e6ee69da1%2F60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif&imgrefurl=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&tbnid=LdF0RB6zYZ8nuM&vet=12ahUKEwiJhbnnor_9AhWWWaQEHausAFsQMygMegUIARCMAg..i&docid=xLW_H5EqWMOzQM&w=500&h=500&q=data%20engineering%20gif&ved=2ahUKEwiJhbnnor_9AhWWWaQEHausAFsQMygMegUIARCMAg](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salemamassi&label=Profile%20views&color=0e75b6&style=flat" alt="salemamassi" /> </p>
 
