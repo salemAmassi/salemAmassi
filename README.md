@@ -25,7 +25,7 @@ You can also reach out to me through the following channels:
 - Email: [salem.amassi@gmail.com](mailto:salem.amassi@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/salemamassi/](https://www.linkedin.com/in/salemamassi/)
 
-## 👥 Contributions
+## <img src="contribution.png" alt = "contribution" width="40" height="40"> Contributions
 
 **I welcome contributions to my projects!**
 Please follow these steps if you would like to contribute:
