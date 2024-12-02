@@ -4,13 +4,13 @@ Welcome to my GitHub profile! Here you'll find a collection of repositories show
 my work in **software development**, **Data science**, **LLM for production**,
 and more.
 
-## ![study](study.png) Learning and Exploring
+## <img src="study.png" alt = "study" width="50" height="50"> Learning and Exploring
 
 - **Backend Development**: Working with Node.js, **Python** and LLM-powered applications.
 - **Machine Learning & AI**: Exploring prompt engineering and applications of **LLMs**.
 - **Cloud Computing**: Developing serverless applications and cloud architecture in **AWS**.
 
-## ![toolkit](toolkit.png) Skills
+## <img src="toolkit.png" alt = "toolkit" width="50" height="50"> Skills
 
 - **Programming Languages**: Python, JavaScript (Node.js, TypeScript), Java.
 - **Frameworks & Libraries**: Streamlit, Gradio, LangChain, LiteLLM.
